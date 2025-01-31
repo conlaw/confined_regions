@@ -1,0 +1,1787 @@
+id_for_x,ctf_id,a,found_a,abstains,certifies_infeasibility,exec_time
+0,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+1,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+2,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+3,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+4,1,"[array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(1.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(-0.), array(-0.), array(0.), array(1.), array(0.), array(1.)]",True,False,False,0.07069599999999998
+5,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+6,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+7,1,"[array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(1.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(-0.), array(-0.), array(0.), array(0.), array(0.), array(1.)]",True,False,False,0.006886000000000059
+8,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+9,1,"[array(-0.), array(-0.), array(-0.), array(-0.), array(0.), array(-0.), array(-0.), array(-0.), array(-0.), array(-0.), array(-0.), array(-0.), array(0.), array(-0.), array(-0.), array(-0.), array(-0.), array(-0.), array(-0.), array(0.), array(-0.), array(-0.), array(-0.), array(-0.), array(-0.), array(-0.), array(-0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(1.)]",True,False,False,0.005376999999999965
+10,1,"[array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(1.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(-0.), array(-0.), array(0.), array(0.), array(0.), array(1.)]",True,False,False,0.0049160000000000315
+11,1,"[array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(1.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(-0.), array(0.), array(1.), array(0.), array(1.)]",True,False,False,0.004848999999999992
+12,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+13,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+14,1,"[array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(1.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(-0.), array(-0.), array(0.), array(1.), array(0.), array(1.)]",True,False,False,0.004866999999999955
+15,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+16,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+17,1,"[array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(1.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(-0.), array(0.), array(1.), array(0.), array(-0.)]",True,False,False,0.007012000000000018
+18,1,,False,False,True,0.0023130000000000095
+19,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+20,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+21,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+22,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+23,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+24,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+25,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+26,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+27,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+28,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+29,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+30,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+31,1,"[array(-0.), array(-0.), array(-0.), array(-0.), array(0.), array(-0.), array(-0.), array(-0.), array(-0.), array(-0.), array(-0.), array(-0.), array(0.), array(-0.), array(-0.), array(-0.), array(-0.), array(-0.), array(-0.), array(0.), array(-0.), array(-0.), array(-0.), array(-0.), array(-0.), array(-0.), array(-0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(1.)]",True,False,False,0.004779000000000089
+32,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+33,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+34,1,"[array(-0.), array(-0.), array(-0.), array(-0.), array(0.), array(-0.), array(-0.), array(-0.), array(-0.), array(-0.), array(-0.), array(-0.), array(0.), array(-0.), array(-0.), array(-0.), array(-0.), array(-0.), array(-0.), array(0.), array(-0.), array(-0.), array(-0.), array(-0.), array(-0.), array(-0.), array(-0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(1.)]",True,False,False,0.00468500000000005
+35,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+36,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+37,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+38,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+39,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+40,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+41,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+42,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+43,1,"[array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(1.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(-0.), array(-0.), array(0.), array(1.), array(0.), array(0.)]",True,False,False,0.0047839999999998994
+44,1,"[array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(1.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(1.), array(0.), array(1.)]",True,False,False,0.004731000000000041
+45,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+46,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+47,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+48,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+49,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+50,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+51,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+52,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+53,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+54,1,"[array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(1.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(1.)]",True,False,False,0.004737999999999909
+55,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+56,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+57,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+58,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+59,1,"[array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(1.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(-0.), array(0.), array(1.), array(0.), array(1.)]",True,False,False,0.00475800000000004
+60,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+61,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+62,1,"[array(-0.), array(-0.), array(-0.), array(-0.), array(0.), array(-0.), array(-0.), array(-0.), array(-0.), array(-0.), array(-0.), array(-0.), array(0.), array(-0.), array(-0.), array(-0.), array(-0.), array(-0.), array(-0.), array(0.), array(-0.), array(-0.), array(-0.), array(-0.), array(-0.), array(-0.), array(-0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(1.)]",True,False,False,0.004727000000000148
+63,1,,False,False,True,0.0025849999999998374
+64,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+65,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+66,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+67,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+68,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+69,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+70,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+71,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+72,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+73,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+74,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+75,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+76,1,"[array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(1.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(-0.), array(-0.), array(0.), array(1.), array(0.), array(1.)]",True,False,False,0.005057000000000089
+77,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+78,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+79,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+80,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+81,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+82,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+83,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+84,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+85,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+86,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+87,1,"[array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(1.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.)]",True,False,False,0.004928999999999961
+88,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+89,1,"[array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(1.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(-0.), array(-0.), array(0.), array(1.), array(0.), array(1.)]",True,False,False,0.0048559999999999715
+90,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+91,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+92,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+93,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+94,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+95,1,,False,False,True,0.001994999999999969
+96,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+97,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+98,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+99,1,"[array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(1.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(-0.), array(0.), array(0.), array(1.), array(-0.)]",True,False,False,0.0048799999999999955
+100,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+101,1,"[array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(1.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(-0.), array(-0.), array(0.), array(0.), array(0.), array(1.)]",True,False,False,0.004797999999999858
+102,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+103,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+104,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+105,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+106,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+107,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+108,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+109,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+110,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+111,1,"[array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(1.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(-0.), array(0.), array(0.), array(0.), array(1.)]",True,False,False,0.004814000000000096
+112,1,"[array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(1.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(-0.), array(-0.), array(0.), array(0.), array(0.), array(1.)]",True,False,False,0.0047999999999999154
+113,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+114,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+115,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+116,1,"[array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(1.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(-0.), array(-0.), array(0.), array(1.), array(1.), array(-0.)]",True,False,False,0.004828999999999972
+117,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+118,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+119,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+120,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+121,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+122,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+123,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+124,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+125,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+126,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+127,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+128,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+129,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+130,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+131,1,"[array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(1.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(1.), array(0.), array(1.)]",True,False,False,0.0047679999999998834
+132,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+133,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+134,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+135,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+136,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+137,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+138,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+139,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+140,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+141,1,"[array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(1.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(-0.), array(-0.), array(0.), array(0.), array(0.), array(1.)]",True,False,False,0.0047840000000001215
+142,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+143,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+144,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+145,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+146,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+147,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+148,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+149,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+150,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+151,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+152,1,"[array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(1.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(-0.), array(-0.), array(0.), array(0.), array(0.), array(1.)]",True,False,False,0.004786999999999875
+153,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+154,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+155,1,"[array(-0.), array(-0.), array(-0.), array(-0.), array(0.), array(-0.), array(-0.), array(-0.), array(-0.), array(-0.), array(-0.), array(-0.), array(0.), array(-0.), array(-0.), array(-0.), array(-0.), array(-0.), array(-0.), array(0.), array(-0.), array(-0.), array(-0.), array(-0.), array(-0.), array(-0.), array(-0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(1.)]",True,False,False,0.004677000000000042
+156,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+157,1,"[array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(1.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(-0.), array(0.), array(1.), array(0.), array(1.)]",True,False,False,0.0047719999999999985
+158,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+159,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+160,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+161,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+162,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+163,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+164,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+165,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+166,1,"[array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(1.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(-0.), array(-0.), array(0.), array(1.), array(0.), array(1.)]",True,False,False,0.004851999999999856
+167,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+168,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+169,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+170,1,"[array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(1.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(1.), array(0.), array(1.)]",True,False,False,0.004742000000000024
+171,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+172,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+173,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+174,1,"[array(-0.), array(-0.), array(-0.), array(-0.), array(0.), array(-0.), array(-0.), array(-0.), array(-0.), array(-0.), array(-0.), array(-0.), array(0.), array(-0.), array(-0.), array(-0.), array(-0.), array(-0.), array(-0.), array(0.), array(-0.), array(-0.), array(-0.), array(-0.), array(-0.), array(-0.), array(-0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(1.)]",True,False,False,0.004635000000000167
+175,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+176,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+177,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+178,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+179,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+180,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+181,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+182,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+183,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+184,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+185,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+186,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+187,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+188,1,"[array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(1.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(-0.), array(-0.), array(0.), array(1.), array(0.), array(0.)]",True,False,False,0.004769999999999941
+189,1,"[array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(1.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(-0.), array(0.), array(0.), array(0.), array(1.)]",True,False,False,0.004790000000000072
+190,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+191,1,"[array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(1.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.)]",True,False,False,0.004714000000000107
+192,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+193,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+194,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+195,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+196,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+197,1,"[array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(1.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(-0.), array(0.), array(0.), array(0.), array(0.)]",True,False,False,0.004794999999999883
+198,1,"[array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(1.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(-0.), array(0.), array(0.), array(1.), array(-0.)]",True,False,False,0.005144000000000037
+199,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+200,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+201,1,"[array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(1.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(-0.), array(-0.), array(0.), array(1.), array(0.), array(1.)]",True,False,False,0.005458999999999881
+202,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+203,1,"[array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(1.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(-0.), array(-0.), array(0.), array(1.), array(0.), array(1.)]",True,False,False,0.005074999999999941
+204,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+205,1,"[array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(1.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(-0.), array(-0.), array(0.), array(1.), array(0.), array(1.)]",True,False,False,0.004928999999999961
+206,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+207,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+208,1,"[array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(1.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(-0.), array(0.), array(0.), array(1.), array(0.), array(1.)]",True,False,False,0.004820999999999964
+209,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+210,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+211,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+212,1,"[array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(1.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(-0.), array(0.), array(0.), array(1.), array(0.), array(1.)]",True,False,False,0.004824999999999857
+213,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+214,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+215,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+216,1,"[array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(1.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(-0.), array(0.), array(1.), array(0.), array(1.)]",True,False,False,0.0047919999999999074
+217,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+218,1,"[array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(1.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(-0.), array(-0.), array(0.), array(1.), array(0.), array(1.)]",True,False,False,0.004772999999999916
+219,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+220,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+221,1,"[array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(1.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(-0.), array(0.), array(1.), array(0.), array(-0.)]",True,False,False,0.0048240000000001615
+222,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+223,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+224,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+225,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+226,1,"[array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(1.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(-0.), array(0.), array(0.), array(0.), array(0.)]",True,False,False,0.004823000000000022
+227,1,"[array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(1.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(-0.), array(-0.), array(0.), array(1.), array(0.), array(1.)]",True,False,False,0.0047639999999999905
+228,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+229,1,"[array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(1.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(1.), array(0.), array(1.)]",True,False,False,0.0047679999999998834
+230,1,"[array(-0.), array(-0.), array(-0.), array(-0.), array(0.), array(-0.), array(-0.), array(-0.), array(-0.), array(-0.), array(-0.), array(-0.), array(0.), array(-0.), array(-0.), array(-0.), array(-0.), array(-0.), array(-0.), array(0.), array(-0.), array(-0.), array(-0.), array(-0.), array(-0.), array(-0.), array(-0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(1.)]",True,False,False,0.00468500000000005
+231,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+232,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+233,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+234,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+235,1,"[array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(1.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(-0.), array(0.), array(0.), array(1.), array(0.), array(1.)]",True,False,False,0.004801000000000055
+236,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+237,1,"[array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(1.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(-0.), array(0.), array(0.), array(0.), array(0.)]",True,False,False,0.0047839999999998994
+238,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+239,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+240,1,"[array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(1.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(-0.), array(0.), array(1.), array(1.), array(-0.)]",True,False,False,0.0047839999999998994
+241,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+242,1,,False,False,True,0.001955000000000151
+243,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+244,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+245,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+246,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+247,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+248,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+249,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+250,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+251,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+252,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+253,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+254,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+255,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+256,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+257,1,"[array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(1.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(-0.), array(-0.), array(0.), array(1.), array(0.), array(1.)]",True,False,False,0.004801999999999973
+258,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+259,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+260,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+261,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+262,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+263,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+264,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+265,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+266,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+267,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+268,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+269,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+270,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+271,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+272,1,"[array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(1.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.)]",True,False,False,0.004753000000000007
+273,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+274,1,"[array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(1.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(-0.), array(-0.), array(0.), array(1.), array(0.), array(1.)]",True,False,False,0.004793999999999965
+275,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+276,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+277,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+278,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+279,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+280,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+281,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+282,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+283,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+284,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+285,1,"[array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(1.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(-0.), array(0.), array(1.), array(0.), array(1.)]",True,False,False,0.0047480000000001965
+286,1,"[array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(1.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(-0.), array(0.), array(1.), array(0.), array(1.)]",True,False,False,0.004762000000000155
+287,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+288,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+289,1,"[array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(1.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(-0.), array(0.), array(0.), array(1.), array(0.), array(1.)]",True,False,False,0.004742000000000024
+290,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+291,1,"[array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(1.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(1.)]",True,False,False,0.0047200000000000575
+292,1,"[array(-0.), array(-0.), array(-0.), array(-0.), array(0.), array(-0.), array(-0.), array(-0.), array(-0.), array(-0.), array(-0.), array(-0.), array(0.), array(-0.), array(-0.), array(-0.), array(-0.), array(-0.), array(-0.), array(0.), array(-0.), array(-0.), array(-0.), array(-0.), array(-0.), array(-0.), array(-0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(1.)]",True,False,False,0.004958000000000018
+293,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+294,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+295,1,"[array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(1.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(-0.), array(-0.), array(0.), array(0.), array(0.), array(1.)]",True,False,False,0.004904999999999937
+296,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+297,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+298,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+299,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+300,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+301,1,"[array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(1.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(1.)]",True,False,False,0.004763000000000073
+302,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+303,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+304,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+305,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+306,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+307,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+308,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+309,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+310,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+311,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+312,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+313,1,"[array(-0.), array(-0.), array(-0.), array(-0.), array(0.), array(-0.), array(-0.), array(-0.), array(-0.), array(-0.), array(-0.), array(-0.), array(0.), array(-0.), array(-0.), array(-0.), array(-0.), array(-0.), array(-0.), array(0.), array(-0.), array(-0.), array(-0.), array(-0.), array(-0.), array(-0.), array(-0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(1.)]",True,False,False,0.004658000000000051
+314,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+315,1,"[array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(1.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(-0.), array(0.), array(1.), array(0.), array(1.)]",True,False,False,0.004746000000000139
+316,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+317,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+318,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+319,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+320,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+321,1,"[array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(1.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(-0.), array(-0.), array(0.), array(1.), array(0.), array(1.)]",True,False,False,0.00476500000000013
+322,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+323,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+324,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+325,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+326,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+327,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+328,1,"[array(-0.), array(-0.), array(-0.), array(-0.), array(0.), array(-0.), array(-0.), array(-0.), array(-0.), array(-0.), array(-0.), array(-0.), array(0.), array(-0.), array(-0.), array(-0.), array(-0.), array(-0.), array(-0.), array(0.), array(-0.), array(-0.), array(-0.), array(-0.), array(-0.), array(-0.), array(-0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(1.)]",True,False,False,0.004647000000000068
+329,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+330,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+331,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+332,1,"[array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(1.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.)]",True,False,False,0.004704999999999959
+333,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+334,1,,False,False,True,0.0019340000000001023
+335,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+336,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+337,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+338,1,"[array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(1.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(-0.), array(-0.), array(0.), array(1.), array(0.), array(1.)]",True,False,False,0.0047600000000000975
+339,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+340,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+341,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+342,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+343,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+344,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+345,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+346,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+347,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+348,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+349,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+350,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+351,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+352,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+353,1,"[array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(1.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(1.), array(0.), array(1.)]",True,False,False,0.004755000000000065
+354,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+355,1,"[array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(1.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(-0.), array(0.), array(0.), array(0.), array(0.), array(1.)]",True,False,False,0.004761000000000015
+356,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+357,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+358,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+359,1,"[array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(1.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(-0.), array(-0.), array(0.), array(1.), array(0.), array(1.)]",True,False,False,0.004729999999999901
+360,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+361,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+362,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+363,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+364,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+365,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+366,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+367,1,"[array(-0.), array(-0.), array(-0.), array(-0.), array(0.), array(-0.), array(-0.), array(-0.), array(-0.), array(-0.), array(-0.), array(-0.), array(0.), array(-0.), array(-0.), array(-0.), array(-0.), array(-0.), array(-0.), array(0.), array(-0.), array(-0.), array(-0.), array(-0.), array(-0.), array(-0.), array(-0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(1.)]",True,False,False,0.0046960000000000335
+368,1,"[array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(1.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(-0.), array(-0.), array(0.), array(1.), array(0.), array(1.)]",True,False,False,0.004718
+369,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+370,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+371,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+372,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+373,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+374,1,,False,False,True,0.0019899999999999363
+375,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+376,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+377,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+378,1,,False,False,True,0.001922999999999897
+379,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+380,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+381,1,"[array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(1.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(1.)]",True,False,False,0.004693999999999976
+382,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+383,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+384,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+385,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+386,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+387,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+388,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+389,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+390,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+391,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+392,1,"[array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(1.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(-0.), array(0.), array(1.), array(0.), array(1.)]",True,False,False,0.004731000000000041
+393,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+394,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+395,1,"[array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(1.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.)]",True,False,False,0.0047440000000000815
+396,1,"[array(-0.), array(-0.), array(-0.), array(-0.), array(0.), array(-0.), array(-0.), array(-0.), array(-0.), array(-0.), array(-0.), array(-0.), array(0.), array(-0.), array(-0.), array(-0.), array(-0.), array(-0.), array(-0.), array(0.), array(-0.), array(-0.), array(-0.), array(-0.), array(-0.), array(-0.), array(-0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(1.)]",True,False,False,0.00463099999999983
+397,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+398,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+399,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+400,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+401,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+402,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+403,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+404,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+405,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+406,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+407,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+408,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+409,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+410,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+411,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+412,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+413,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+414,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+415,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+416,1,"[array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(1.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(-0.), array(-0.), array(0.), array(1.), array(0.), array(1.)]",True,False,False,0.004726999999999926
+417,1,"[array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(1.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(-0.), array(-0.), array(0.), array(1.), array(1.), array(-0.)]",True,False,False,0.0047360000000000735
+418,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+419,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+420,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+421,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+422,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+423,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+424,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+425,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+426,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+427,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+428,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+429,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+430,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+431,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+432,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+433,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+434,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+435,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+436,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+437,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+438,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+439,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+440,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+441,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+442,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+443,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+444,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+445,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+446,1,"[array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(1.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(-0.), array(0.), array(1.), array(0.), array(1.)]",True,False,False,0.004959999999999853
+447,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+448,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+449,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+450,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+451,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+452,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+453,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+454,1,"[array(-0.), array(-0.), array(-0.), array(-0.), array(0.), array(-0.), array(-0.), array(-0.), array(-0.), array(-0.), array(-0.), array(-0.), array(0.), array(-0.), array(-0.), array(-0.), array(-0.), array(-0.), array(-0.), array(0.), array(-0.), array(-0.), array(-0.), array(-0.), array(-0.), array(-0.), array(-0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(1.)]",True,False,False,0.004722000000000115
+455,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+456,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+457,1,"[array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(1.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(-0.), array(-0.), array(0.), array(1.), array(0.), array(1.)]",True,False,False,0.004969000000000001
+458,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+459,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+460,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+461,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+462,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+463,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+464,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+465,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+466,1,"[array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(1.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(-0.), array(-0.), array(0.), array(1.), array(0.), array(1.)]",True,False,False,0.004834000000000005
+467,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+468,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+469,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+470,1,"[array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(1.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(-0.), array(-0.), array(0.), array(0.), array(0.), array(0.)]",True,False,False,0.004805999999999866
+471,1,"[array(-0.), array(-0.), array(-0.), array(-0.), array(0.), array(-0.), array(-0.), array(-0.), array(-0.), array(-0.), array(-0.), array(-0.), array(0.), array(-0.), array(-0.), array(-0.), array(-0.), array(-0.), array(-0.), array(0.), array(-0.), array(-0.), array(-0.), array(-0.), array(-0.), array(-0.), array(-0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(1.)]",True,False,False,0.004653999999999936
+472,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+473,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+474,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+475,1,"[array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(1.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(-0.), array(-0.), array(0.), array(1.), array(0.), array(1.)]",True,False,False,0.004746000000000139
+476,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+477,1,"[array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(1.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(-0.), array(0.), array(0.), array(0.), array(1.)]",True,False,False,0.0047439999999998594
+478,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+479,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+480,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+481,1,"[array(-0.), array(-0.), array(-0.), array(-0.), array(0.), array(-0.), array(-0.), array(-0.), array(-0.), array(-0.), array(-0.), array(-0.), array(0.), array(-0.), array(-0.), array(-0.), array(-0.), array(-0.), array(-0.), array(0.), array(-0.), array(-0.), array(-0.), array(-0.), array(-0.), array(-0.), array(-0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(1.)]",True,False,False,0.004637000000000002
+482,1,"[array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(1.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(-0.), array(-0.), array(0.), array(1.), array(0.), array(0.)]",True,False,False,0.004761000000000015
+483,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+484,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+485,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+486,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+487,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+488,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+489,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+490,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+491,1,"[array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(1.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(-0.), array(-0.), array(0.), array(0.), array(0.), array(1.)]",True,False,False,0.004761000000000015
+492,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+493,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+494,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+495,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+496,1,"[array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(1.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.)]",True,False,False,0.004712999999999967
+497,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+498,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+499,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+500,1,"[array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(1.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(-0.), array(0.), array(1.), array(0.), array(1.)]",True,False,False,0.00475099999999995
+501,1,"[array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(1.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(-0.), array(-0.), array(0.), array(1.), array(0.), array(1.)]",True,False,False,0.004753000000000007
+502,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+503,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+504,1,"[array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(1.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(-0.), array(0.), array(1.), array(0.), array(1.)]",True,False,False,0.0048680000000000945
+505,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+506,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+507,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+508,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+509,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+510,1,"[array(-0.), array(-0.), array(-0.), array(-0.), array(0.), array(-0.), array(-0.), array(-0.), array(-0.), array(-0.), array(-0.), array(-0.), array(0.), array(-0.), array(-0.), array(-0.), array(-0.), array(-0.), array(-0.), array(0.), array(-0.), array(-0.), array(-0.), array(-0.), array(-0.), array(-0.), array(-0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(1.)]",True,False,False,0.004682999999999993
+511,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+512,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+513,1,"[array(-0.), array(-0.), array(-0.), array(-0.), array(0.), array(-0.), array(-0.), array(-0.), array(-0.), array(-0.), array(-0.), array(-0.), array(0.), array(-0.), array(-0.), array(-0.), array(-0.), array(-0.), array(-0.), array(0.), array(-0.), array(-0.), array(-0.), array(-0.), array(-0.), array(-0.), array(-0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(1.)]",True,False,False,0.00463799999999992
+514,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+515,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+516,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+517,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+518,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+519,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+520,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+521,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+522,1,,False,False,True,0.0019500000000001183
+523,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+524,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+525,1,"[array(-0.), array(-0.), array(-0.), array(-0.), array(0.), array(-0.), array(-0.), array(-0.), array(-0.), array(-0.), array(-0.), array(-0.), array(0.), array(-0.), array(-0.), array(-0.), array(-0.), array(-0.), array(-0.), array(0.), array(-0.), array(-0.), array(-0.), array(-0.), array(-0.), array(-0.), array(-0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(1.)]",True,False,False,0.004623000000000044
+526,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+527,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+528,1,"[array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(1.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(-0.), array(0.), array(1.), array(0.), array(1.)]",True,False,False,0.004742000000000024
+529,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+530,1,"[array(-0.), array(-0.), array(-0.), array(-0.), array(0.), array(-0.), array(-0.), array(-0.), array(-0.), array(-0.), array(-0.), array(-0.), array(0.), array(-0.), array(-0.), array(-0.), array(-0.), array(-0.), array(-0.), array(0.), array(-0.), array(-0.), array(-0.), array(-0.), array(-0.), array(-0.), array(-0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(1.)]",True,False,False,0.0046319999999999695
+531,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+532,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+533,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+534,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+535,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+536,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+537,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+538,1,,False,False,True,0.0019219999999999793
+539,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+540,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+541,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+542,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+543,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+544,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+545,1,"[array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(1.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(-0.), array(-0.), array(0.), array(1.), array(0.), array(1.)]",True,False,False,0.004731000000000041
+546,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+547,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+548,1,"[array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(1.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(-0.), array(0.), array(1.), array(0.), array(1.)]",True,False,False,0.004898000000000069
+549,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+550,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+551,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+552,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+553,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+554,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+555,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+556,1,"[array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(1.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.)]",True,False,False,0.005189999999999806
+557,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+558,1,"[array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(1.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(-0.), array(0.), array(1.), array(0.), array(1.)]",True,False,False,0.004956999999999878
+559,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+560,1,"[array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(1.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(-0.), array(0.), array(1.), array(1.), array(-0.)]",True,False,False,0.004827000000000137
+561,1,"[array(-0.), array(-0.), array(-0.), array(-0.), array(0.), array(-0.), array(-0.), array(-0.), array(-0.), array(-0.), array(-0.), array(-0.), array(0.), array(-0.), array(-0.), array(-0.), array(-0.), array(-0.), array(-0.), array(0.), array(-0.), array(-0.), array(-0.), array(-0.), array(-0.), array(-0.), array(-0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(1.)]",True,False,False,0.004711000000000132
+562,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+563,1,"[array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(1.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(-0.), array(-0.), array(0.), array(0.), array(1.), array(-0.)]",True,False,False,0.0047800000000000065
+564,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+565,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+566,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+567,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+568,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+569,1,"[array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(1.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(-0.), array(-0.), array(0.), array(1.), array(0.), array(1.)]",True,False,False,0.00475800000000004
+570,1,"[array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(1.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(-0.), array(-0.), array(0.), array(1.), array(0.), array(1.)]",True,False,False,0.004736999999999991
+571,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+572,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+573,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+574,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+575,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+576,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+577,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+578,1,"[array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(1.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(-0.), array(-0.), array(0.), array(0.), array(0.), array(1.)]",True,False,False,0.004755000000000065
+579,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+580,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+581,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+582,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+583,1,"[array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(1.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(-0.), array(-0.), array(0.), array(0.), array(0.), array(1.)]",True,False,False,0.0047440000000000815
+584,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+585,1,"[array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(1.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(-0.), array(0.), array(1.), array(0.), array(1.)]",True,False,False,0.004737999999999909
+586,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+587,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+588,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+589,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+590,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+591,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+592,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+593,1,"[array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(1.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(-0.), array(-0.), array(0.), array(0.), array(0.), array(1.)]",True,False,False,0.004744999999999999
+594,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+595,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+596,1,"[array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(1.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(-0.), array(0.), array(1.), array(0.), array(1.)]",True,False,False,0.0047239999999999505
+597,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+598,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+599,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+600,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+601,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+602,1,"[array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(1.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(1.)]",True,False,False,0.004718999999999918
+603,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+604,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+605,1,"[array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(1.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(-0.), array(0.), array(0.), array(1.), array(0.), array(0.)]",True,False,False,0.004729000000000205
+606,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+607,1,"[array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(1.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(-0.), array(-0.), array(0.), array(0.), array(0.), array(0.)]",True,False,False,0.00474999999999981
+608,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+609,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+610,1,"[array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(1.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(-0.), array(-0.), array(0.), array(1.), array(0.), array(0.)]",True,False,False,0.004729999999999901
+611,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+612,1,"[array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(1.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(-0.), array(0.), array(1.), array(0.), array(0.)]",True,False,False,0.0047519999999998674
+613,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+614,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+615,1,"[array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(1.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(-0.), array(0.), array(0.), array(0.), array(0.)]",True,False,False,0.0047880000000000145
+616,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+617,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+618,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+619,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+620,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+621,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+622,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+623,1,"[array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(1.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(-0.), array(-0.), array(0.), array(1.), array(0.), array(1.)]",True,False,False,0.004753000000000007
+624,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+625,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+626,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+627,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+628,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+629,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+630,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+631,1,"[array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(1.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(-0.), array(0.), array(1.), array(0.), array(1.)]",True,False,False,0.004744999999999999
+632,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+633,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+634,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+635,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+636,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+637,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+638,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+639,1,"[array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(1.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(-0.), array(0.), array(1.), array(0.), array(1.)]",True,False,False,0.0047839999999998994
+640,1,"[array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(1.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(-0.), array(-0.), array(0.), array(1.), array(0.), array(1.)]",True,False,False,0.004735000000000156
+641,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+642,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+643,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+644,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+645,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+646,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+647,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+648,1,"[array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(1.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(-0.), array(0.), array(0.), array(0.), array(1.)]",True,False,False,0.004745999999999917
+649,1,"[array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(1.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(-0.), array(-0.), array(0.), array(1.), array(0.), array(1.)]",True,False,False,0.00471099999999991
+650,1,"[array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(1.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(-0.), array(0.), array(1.), array(0.), array(1.)]",True,False,False,0.005042999999999909
+651,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+652,1,"[array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(1.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(-0.), array(-0.), array(0.), array(1.), array(0.), array(1.)]",True,False,False,0.0052040000000002085
+653,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+654,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+655,1,"[array(-0.), array(-0.), array(-0.), array(-0.), array(0.), array(-0.), array(-0.), array(-0.), array(-0.), array(-0.), array(-0.), array(-0.), array(0.), array(-0.), array(-0.), array(-0.), array(-0.), array(-0.), array(-0.), array(0.), array(-0.), array(-0.), array(-0.), array(-0.), array(-0.), array(-0.), array(-0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(1.)]",True,False,False,0.004804999999999948
+656,1,"[array(-0.), array(-0.), array(-0.), array(-0.), array(0.), array(-0.), array(-0.), array(-0.), array(-0.), array(-0.), array(-0.), array(-0.), array(0.), array(-0.), array(-0.), array(-0.), array(-0.), array(-0.), array(-0.), array(0.), array(-0.), array(-0.), array(-0.), array(-0.), array(-0.), array(-0.), array(-0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(1.)]",True,False,False,0.004693999999999976
+657,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+658,1,"[array(-0.), array(-0.), array(-0.), array(-0.), array(0.), array(-0.), array(-0.), array(-0.), array(-0.), array(-0.), array(-0.), array(-0.), array(0.), array(-0.), array(-0.), array(-0.), array(-0.), array(-0.), array(-0.), array(0.), array(-0.), array(-0.), array(-0.), array(-0.), array(-0.), array(-0.), array(-0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(1.)]",True,False,False,0.0046800000000000175
+659,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+660,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+661,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+662,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+663,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+664,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+665,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+666,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+667,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+668,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+669,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+670,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+671,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+672,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+673,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+674,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+675,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+676,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+677,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+678,1,"[array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(1.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(-0.), array(0.), array(1.), array(0.), array(1.)]",True,False,False,0.004807000000000006
+679,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+680,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+681,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+682,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+683,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+684,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+685,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+686,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+687,1,"[array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(1.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(-0.), array(0.), array(0.), array(0.), array(0.)]",True,False,False,0.0048239999999999394
+688,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+689,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+690,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+691,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+692,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+693,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+694,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+695,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+696,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+697,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+698,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+699,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+700,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+701,1,"[array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(1.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(-0.), array(-0.), array(0.), array(1.), array(0.), array(1.)]",True,False,False,0.004763000000000073
+702,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+703,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+704,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+705,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+706,1,"[array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(1.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(-0.), array(-0.), array(0.), array(0.), array(0.), array(0.)]",True,False,False,0.0047839999999998994
+707,1,,False,False,True,0.001947000000000143
+708,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+709,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+710,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+711,1,"[array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(1.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(-0.), array(-0.), array(0.), array(1.), array(0.), array(1.)]",True,False,False,0.0047399999999999665
+712,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+713,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+714,1,,False,False,True,0.0019420000000001103
+715,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+716,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+717,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+718,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+719,1,,False,False,True,0.0019359999999999378
+720,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+721,1,"[array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(1.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.)]",True,False,False,0.0046919999999999185
+722,1,"[array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(1.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(-0.), array(-0.), array(0.), array(1.), array(0.), array(1.)]",True,False,False,0.004798999999999998
+723,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+724,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+725,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+726,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+727,1,"[array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(1.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(-0.), array(0.), array(1.), array(0.), array(1.)]",True,False,False,0.0047519999999998674
+728,1,"[array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(1.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(-0.), array(0.), array(0.), array(0.), array(1.)]",True,False,False,0.004798999999999998
+729,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+730,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+731,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+732,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+733,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+734,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+735,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+736,1,"[array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(1.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(-0.), array(0.), array(0.), array(0.), array(1.)]",True,False,False,0.004753000000000007
+737,1,"[array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(1.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(-0.), array(-0.), array(0.), array(1.), array(0.), array(0.)]",True,False,False,0.004746000000000139
+738,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+739,1,"[array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(1.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.)]",True,False,False,0.00475099999999995
+740,1,"[array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(1.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(-0.), array(0.), array(1.), array(0.), array(0.)]",True,False,False,0.004745999999999917
+741,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+742,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+743,1,"[array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(1.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(-0.), array(0.), array(0.), array(1.), array(0.), array(0.)]",True,False,False,0.004731000000000041
+744,1,"[array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(1.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(-0.), array(-0.), array(0.), array(1.), array(1.), array(-0.)]",True,False,False,0.0047439999999998594
+745,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+746,1,"[array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(1.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(-0.), array(-0.), array(0.), array(1.), array(0.), array(1.)]",True,False,False,0.004949000000000092
+747,1,"[array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(1.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(-0.), array(-0.), array(0.), array(1.), array(0.), array(1.)]",True,False,False,0.0048639999999999795
+748,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+749,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+750,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+751,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+752,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+753,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+754,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+755,1,"[array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(1.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(-0.), array(-0.), array(0.), array(1.), array(1.), array(-0.)]",True,False,False,0.004807000000000006
+756,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+757,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+758,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+759,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+760,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+761,1,"[array(-0.), array(-0.), array(-0.), array(-0.), array(0.), array(-0.), array(-0.), array(-0.), array(-0.), array(-0.), array(-0.), array(-0.), array(0.), array(-0.), array(-0.), array(-0.), array(-0.), array(-0.), array(-0.), array(0.), array(-0.), array(-0.), array(-0.), array(-0.), array(-0.), array(-0.), array(-0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(1.)]",True,False,False,0.004645999999999928
+762,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+763,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+764,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+765,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+766,1,"[array(-0.), array(-0.), array(-0.), array(-0.), array(0.), array(-0.), array(-0.), array(-0.), array(-0.), array(-0.), array(-0.), array(-0.), array(0.), array(-0.), array(-0.), array(-0.), array(-0.), array(-0.), array(-0.), array(0.), array(-0.), array(-0.), array(-0.), array(-0.), array(-0.), array(-0.), array(-0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(1.)]",True,False,False,0.0046159999999999535
+767,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+768,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+769,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+770,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+771,1,"[array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(1.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(-0.), array(-0.), array(0.), array(1.), array(0.), array(1.)]",True,False,False,0.004761000000000015
+772,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+773,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+774,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+775,1,"[array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(1.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(-0.), array(-0.), array(0.), array(1.), array(1.), array(-0.)]",True,False,False,0.004737999999999909
+776,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+777,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+778,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+779,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+780,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+781,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+782,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+783,1,"[array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(1.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(-0.), array(0.), array(0.), array(0.), array(0.)]",True,False,False,0.0047479999999999745
+784,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+785,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+786,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+787,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+788,1,"[array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(1.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(-0.), array(0.), array(0.), array(0.), array(1.)]",True,False,False,0.0047479999999999745
+789,1,"[array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(1.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(-0.), array(0.), array(1.), array(0.), array(1.)]",True,False,False,0.0047439999999998594
+790,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+791,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+792,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+793,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+794,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+795,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+796,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+797,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+798,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+799,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+800,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+801,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+802,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+803,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+804,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+805,1,"[array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(1.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(-0.), array(0.), array(1.), array(0.), array(1.)]",True,False,False,0.004738000000000131
+806,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+807,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+808,1,"[array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(1.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(1.)]",True,False,False,0.004714000000000107
+809,1,"[array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(1.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(-0.), array(0.), array(0.), array(0.), array(1.)]",True,False,False,0.004709999999999992
+810,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+811,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+812,1,"[array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(1.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(-0.), array(-0.), array(0.), array(1.), array(0.), array(1.)]",True,False,False,0.004728999999999983
+813,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+814,1,"[array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(1.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(-0.), array(0.), array(1.), array(0.), array(1.)]",True,False,False,0.004793999999999965
+815,1,"[array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(1.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(-0.), array(0.), array(0.), array(0.), array(1.)]",True,False,False,0.004734999999999934
+816,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+817,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+818,1,"[array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(1.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(-0.), array(0.), array(1.), array(0.), array(1.)]",True,False,False,0.0047319999999999585
+819,1,"[array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(1.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(-0.), array(0.), array(1.), array(0.), array(1.)]",True,False,False,0.0047280000000000655
+820,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+821,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+822,1,"[array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(1.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(-0.), array(0.), array(1.), array(0.), array(1.)]",True,False,False,0.0047200000000000575
+823,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+824,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+825,1,"[array(-0.), array(-0.), array(-0.), array(-0.), array(0.), array(-0.), array(-0.), array(-0.), array(-0.), array(-0.), array(-0.), array(-0.), array(0.), array(-0.), array(-0.), array(-0.), array(-0.), array(-0.), array(-0.), array(0.), array(-0.), array(-0.), array(-0.), array(-0.), array(-0.), array(-0.), array(-0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(1.)]",True,False,False,0.0046159999999999535
+826,1,"[array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(1.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(-0.), array(0.), array(1.), array(0.), array(1.)]",True,False,False,0.004709999999999992
+827,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+828,1,"[array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(1.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(-0.), array(-0.), array(0.), array(1.), array(1.), array(-0.)]",True,False,False,0.004736999999999991
+829,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+830,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+831,1,"[array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(1.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(-0.), array(0.), array(1.), array(0.), array(1.)]",True,False,False,0.00471099999999991
+832,1,,False,False,True,0.001930999999999905
+833,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+834,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+835,1,"[array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(1.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(1.), array(0.), array(1.)]",True,False,False,0.004742999999999942
+836,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+837,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+838,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+839,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+840,1,"[array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(1.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(-0.), array(-0.), array(0.), array(1.), array(0.), array(1.)]",True,False,False,0.004728999999999983
+841,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+842,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+843,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+844,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+845,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+846,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+847,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+848,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+849,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+850,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+851,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+852,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+853,1,"[array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(1.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(-0.), array(-0.), array(0.), array(1.), array(0.), array(1.)]",True,False,False,0.00475099999999995
+854,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+855,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+856,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+857,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+858,1,"[array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(1.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(-0.), array(-0.), array(0.), array(1.), array(0.), array(1.)]",True,False,False,0.004742000000000024
+859,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+860,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+861,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+862,1,"[array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(1.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(-0.), array(-0.), array(0.), array(1.), array(0.), array(1.)]",True,False,False,0.0047120000000000495
+863,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+864,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+865,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+866,1,"[array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(1.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(-0.), array(0.), array(0.), array(1.), array(0.), array(1.)]",True,False,False,0.004705999999999877
+867,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+868,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+869,1,"[array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(1.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(-0.), array(-0.), array(0.), array(1.), array(0.), array(1.)]",True,False,False,0.004713999999999885
+870,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+871,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+872,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+873,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+874,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+875,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+876,1,"[array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(1.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(-0.), array(0.), array(1.), array(0.), array(1.)]",True,False,False,0.004903000000000102
+877,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+878,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+879,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+880,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+881,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+882,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+883,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+884,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+885,1,"[array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(1.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(-0.), array(-0.), array(0.), array(1.), array(0.), array(1.)]",True,False,False,0.004901999999999962
+886,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+887,1,"[array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(1.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(-0.), array(0.), array(0.), array(0.), array(1.)]",True,False,False,0.004815000000000014
+888,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+889,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+890,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+891,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+892,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+893,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+894,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+895,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+896,1,"[array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(1.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(-0.), array(-0.), array(0.), array(1.), array(0.), array(1.)]",True,False,False,0.004800999999999833
+897,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+898,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+899,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+900,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+901,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+902,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+903,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+904,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+905,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+906,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+907,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+908,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+909,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+910,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+911,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+912,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+913,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+914,1,"[array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(1.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(-0.), array(-0.), array(0.), array(1.), array(0.), array(1.)]",True,False,False,0.0047800000000000065
+915,1,"[array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(1.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(-0.), array(0.), array(0.), array(0.), array(1.)]",True,False,False,0.004761000000000015
+916,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+917,1,"[array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(1.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(-0.), array(0.), array(1.), array(0.), array(1.)]",True,False,False,0.0047560000000002045
+918,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+919,1,"[array(-0.), array(-0.), array(-0.), array(-0.), array(0.), array(-0.), array(-0.), array(-0.), array(-0.), array(-0.), array(-0.), array(-0.), array(0.), array(-0.), array(-0.), array(-0.), array(-0.), array(-0.), array(-0.), array(0.), array(-0.), array(-0.), array(-0.), array(-0.), array(-0.), array(-0.), array(-0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(1.)]",True,False,False,0.004628999999999994
+920,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+921,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+922,1,"[array(-0.), array(-0.), array(-0.), array(-0.), array(0.), array(-0.), array(-0.), array(-0.), array(-0.), array(-0.), array(-0.), array(-0.), array(0.), array(-0.), array(-0.), array(-0.), array(-0.), array(-0.), array(-0.), array(0.), array(-0.), array(-0.), array(-0.), array(-0.), array(-0.), array(-0.), array(-0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(1.)]",True,False,False,0.004645999999999928
+923,1,"[array(-0.), array(-0.), array(-0.), array(-0.), array(0.), array(-0.), array(-0.), array(-0.), array(-0.), array(-0.), array(-0.), array(-0.), array(0.), array(-0.), array(-0.), array(-0.), array(-0.), array(-0.), array(-0.), array(0.), array(-0.), array(-0.), array(-0.), array(-0.), array(-0.), array(-0.), array(-0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(1.)]",True,False,False,0.004625000000000101
+924,1,"[array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(1.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(-0.), array(0.), array(1.), array(0.), array(1.)]",True,False,False,0.0047360000000000735
+925,1,"[array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(1.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(-0.), array(0.), array(1.), array(0.), array(1.)]",True,False,False,0.0047439999999998594
+926,1,"[array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(1.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(-0.), array(-0.), array(0.), array(1.), array(0.), array(1.)]",True,False,False,0.0047239999999999505
+927,1,,False,False,True,0.0019359999999999378
+928,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+929,1,"[array(-0.), array(-0.), array(-0.), array(-0.), array(0.), array(-0.), array(-0.), array(-0.), array(-0.), array(-0.), array(-0.), array(-0.), array(0.), array(-0.), array(-0.), array(-0.), array(-0.), array(-0.), array(-0.), array(0.), array(-0.), array(-0.), array(-0.), array(-0.), array(-0.), array(-0.), array(-0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(1.)]",True,False,False,0.004674000000000067
+930,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+931,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+932,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+933,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+934,1,"[array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(1.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(-0.), array(0.), array(1.), array(0.), array(1.)]",True,False,False,0.004761000000000015
+935,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+936,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+937,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+938,1,"[array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(1.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(1.)]",True,False,False,0.004696999999999951
+939,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+940,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+941,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+942,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+943,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+944,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+945,1,,False,False,True,0.0019409999999999705
+946,1,"[array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(1.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(-0.), array(-0.), array(0.), array(1.), array(0.), array(0.)]",True,False,False,0.004734000000000016
+947,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+948,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+949,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+950,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+951,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+952,1,"[array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(1.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(-0.), array(0.), array(0.), array(0.), array(0.)]",True,False,False,0.004728999999999983
+953,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+954,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+955,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+956,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+957,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+958,1,"[array(-0.), array(-0.), array(-0.), array(-0.), array(0.), array(-0.), array(-0.), array(-0.), array(-0.), array(-0.), array(-0.), array(-0.), array(0.), array(-0.), array(-0.), array(-0.), array(-0.), array(-0.), array(-0.), array(0.), array(-0.), array(-0.), array(-0.), array(-0.), array(-0.), array(-0.), array(-0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(1.)]",True,False,False,0.0046280000000000765
+959,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+960,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+961,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+962,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+963,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+964,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+965,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+966,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+967,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+968,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+969,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+970,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+971,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+972,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+973,1,"[array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(1.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(-0.), array(0.), array(1.), array(0.), array(1.)]",True,False,False,0.004753999999999925
+974,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+975,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+976,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+977,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+978,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+979,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+980,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+981,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+982,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+983,1,"[array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(1.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(-0.), array(0.), array(1.), array(0.), array(1.)]",True,False,False,0.004761000000000015
+984,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+985,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+986,1,"[array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(1.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(1.)]",True,False,False,0.004991999999999885
+987,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+988,1,"[array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(1.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(-0.), array(0.), array(1.), array(0.), array(1.)]",True,False,False,0.004878999999999856
+989,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+990,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+991,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+992,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+993,1,"[array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(1.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(-0.), array(-0.), array(0.), array(1.), array(0.), array(1.)]",True,False,False,0.004790000000000072
+994,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+995,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+996,1,"[array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(1.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(-0.), array(-0.), array(0.), array(1.), array(0.), array(1.)]",True,False,False,0.004734000000000016
+997,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
+998,1,"[array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(1.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(0.), array(-0.), array(-0.), array(0.), array(1.), array(0.), array(1.)]",True,False,False,0.004744999999999999
+999,0,"[0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0.]",False,False,False,0.0
