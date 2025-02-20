@@ -3,11 +3,11 @@
 [![python](https://img.shields.io/badge/Python-3.10-3776AB.svg?style=flat&logo=python&logoColor=white)](https://www.python.org)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-This repository contains the code to reproduce the results in **Understanding Fixed Predictions via Confined Regions**
+This repository contains the code to reproduce the results in **Understanding Fixed Predictions via Confined Regions**.
 
 ## Background
 
-*Recourse* is the ability of a decision subject to change the prediction of a machine learning model through actions on their features. *Recourse verification* aims to tell if a decision subject is assigned a prediction that is fixed. *Region Verification* checks whether an entire region of the feature space is confined, meaning that every individual does not have recourse.
+*Recourse* is the ability of a decision subject to change the prediction of a machine learning model through actions on their features. *Recourse verification* aims to tell if a decision subject is assigned a prediction that is fixed. *Region Verification* checks whether an entire region of the feature space is confined, meaning that every individual does not have recourse. This project is a fork of [ReachML](https://github.com/ustunb/reachml/tree/main) and uses the same interface and syntax for specifying actionability constraints.
 
 ## Dependencies
 
